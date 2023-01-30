@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Forecefully kill a process
+pkill -SIGKILL -f "highlander"
+
